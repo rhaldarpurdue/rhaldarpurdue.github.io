@@ -11,7 +11,7 @@ author_profile: true
 
 [Effect of Ambient-Intrinsic Dimension Gap on Adversarial Vulnerability](https://proceedings.mlr.press/v238/haldar24a.html)\
 **Rajdeep Haldar**, Yue Xing, Qifan Song\
-[AISTATS 2024]_ 27th International Conference on Artificial Intelligence and Statistics, Valencia, Spain._
+[AISTATS 2024] _27th International Conference on Artificial Intelligence and Statistics, Valencia, Spain._
 
 [On Neural Network Approximation of Ideal Adversarial Attack and Convergence of Adversarial Training](https://arxiv.org/abs/2307.16099)\
 **Rajdeep Haldar**, Qifan Song (2023)\
