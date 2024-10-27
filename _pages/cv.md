@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,57 +8,31 @@ redirect_from:
 ---
 
 {% include base_path %}
+# <i class="fa fa-fw fa-briefcase "></i> CV/Bio
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Purdue University
+  * PhD. Statistics (2021-Current)
+  * Advisor: [Prof Qifan Song](https://www.stat.purdue.edu/people/faculty/qfsong.html)
+  * Courses Taken
+* Indian Institute of Science Education Research
+  * BS-MS Mathematics, (2015-2020)
+  * Advisor:  Uttara Naik-Nimbalkar
+  * Courses Taken
+* Academic Exchange
+  * Chennai Mathematical Institute (2019), Advisor : [Sourish Das](https://www.cmi.ac.in/~sourish/index.html) 
+  * Indian Statistical Institute (2018), Advisor : [Arindam Chatterjee](https://isi.irins.org/profile/122632)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* AI/ML Research Scientist (Summer 2024)
+  * Eli Lilly and Company
+  * Generalizability of Graph Neural Network, Molecular Property Prediction 
+  * Supervisor: Dr. Srilok Srinivasan
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research Assistant (2023-Current)
+  * Purdue University
+  * Supervisor: Prof. Guang Lin
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
