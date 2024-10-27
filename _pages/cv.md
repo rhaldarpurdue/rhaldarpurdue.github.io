@@ -34,7 +34,9 @@ Work experience
 * Research Assistant (2023-Current)
   * Purdue University
   * Supervisor: Prof. Guang Lin
+    
 ======
+
 [**Publications**](https://rhaldarpurdue.github.io/publications/)
 
 [**Teaching**](https://rhaldarpurdue.github.io/teaching/)
