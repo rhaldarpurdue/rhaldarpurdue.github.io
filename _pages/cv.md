@@ -29,10 +29,17 @@ Work experience
 * AI/ML Research Scientist (Summer 2024)
   * Eli Lilly and Company
   * Generalizability of Graph Neural Network, Molecular Property Prediction 
-  * Supervisor: Dr. Srilok Srinivasan
+  * Supervisor: [Dr. Srilok Srinivasan](https://www.linkedin.com/in/srilok-srinivasan/)
 
 * Research Assistant (2023-Current)
   * Purdue University
   * Supervisor: Prof. Guang Lin
+======
+[**Publications**](https://rhaldarpurdue.github.io/publications/)
+
+[**Teaching**](https://rhaldarpurdue.github.io/teaching/)
+
+
+
 
 
