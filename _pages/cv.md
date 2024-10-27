@@ -15,11 +15,11 @@ Education
 * **Purdue University**
   * PhD. Statistics (2021-Current)
   * Advisor: [Prof Qifan Song](https://www.stat.purdue.edu/people/faculty/qfsong.html)
-  * Courses Taken, CGPA 4.0 / 4.0
+  * [Courses Taken](https://rhaldarpurdue.github.io/files/purdue_2024_falltranscript.pdf), CGPA 4.0 / 4.0
 * **Indian Institute of Science Education Research**
   * BS-MS Mathematics, (2015-2020)
   * Advisor:  Uttara Naik-Nimbalkar
-  * Courses Taken, CGPA 9.2 / 10
+  * [Courses Taken](https://rhaldarpurdue.github.io/files/20151011 (1).pdf), CGPA 9.2 / 10
 * **Academic Exchange**
   * Chennai Mathematical Institute (2019), Advisor : [Sourish Das](https://www.cmi.ac.in/~sourish/index.html) 
   * Indian Statistical Institute (2018), Advisor : [Arindam Chatterjee](https://isi.irins.org/profile/122632)
