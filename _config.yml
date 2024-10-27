@@ -21,7 +21,7 @@ repository               : "rhaldarpurdue/rhaldarpurdue.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "bio_image.jpg"
   name             : "Rajdeep Haldar"
   pronouns         : # example: "she/her"  
   bio              : "Diving deep into the mechanics of ML resilience and vulnerability."
