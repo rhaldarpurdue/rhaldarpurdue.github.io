@@ -19,7 +19,7 @@ author_profile: true
 
 - [**STAT/MA 516 Basic Probability and Applications**](https://selfservice.mypurdue.purdue.edu/prod/bwckctlg.p_disp_course_detail?cat_term_in=202010&subj_code_in=STAT&crse_numb_in=51600). Teaching Assistant. _21 Spring_
 
-- [**CS 490**](https://www.cs.purdue.edu/homes/jhonorio/22spring-cs49000dsc.html). Teaching Assistant. _24 Spring_
+- [**CS 490 Data Science Capstone**](https://www.cs.purdue.edu/homes/jhonorio/22spring-cs49000dsc.html). Teaching Assistant. _24 Spring_
 
 
 
