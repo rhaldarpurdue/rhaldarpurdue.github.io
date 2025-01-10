@@ -6,7 +6,7 @@ author_profile: true
 ---
 # <i class="fa fa-fw fa-paste"></i> My [Google Scholar](https://scholar.google.com/citations?user=6TXLCaYAAAAJ&hl=en) #
 
-KLDO: Divergence Optimization for LLM Safety Alignment\
+KLDO: Divergence Optimization for LLM Safety Alignment (Manuscript)\
 **Rajdeep Haldar**, Ziyi Wang, Yue Xing, Guang Lin, Qifan Song (2025)
 
 [Adversarial Vulnerability as a Consequence of Manifold Inseparability](https://arxiv.org/pdf/2410.06921)\
